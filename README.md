@@ -22,7 +22,7 @@ I like 👍
 - [Proton](https://protonapps.com)
 - [Signal](https://signal.org)
 
-I use (but would like to migrate to a more open alternative) 👎
+I use (*but would like to migrate to a more open alternative*) 👎
 
 - [MacBook](https://www.apple.com/macbook-air/)
 - [LG UltraFine™ 5K](https://www.lg.com/us/monitors)
