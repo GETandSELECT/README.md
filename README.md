@@ -13,6 +13,7 @@ I love 😍
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [rtorrent](https://github.com/rakshasa/rtorrent)
 - [WireGuard](https://www.wireguard.com/)
+- [KeePassXC](https://keepassxc.org)
 
 I like 👍
 
