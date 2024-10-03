@@ -5,7 +5,7 @@ I love 😍
 - [F-Droid](https://f-droid.org/)
 - [Debian](https://www.debian.org)
 - [LibreELEC](https://libreelec.tv/)
-- [Jellyin](https://jellyfin.org/)
+- [Jellyfin](https://jellyfin.org/)
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
 - [Etherum](https://github.com/ethereum)
 - [Thunderbird](https://www.thunderbird.net)
